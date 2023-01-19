@@ -1,0 +1,30 @@
+{
+	"name": "ice-cream-server",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "node main.js",
+		"test": "jest"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/thelamina/react-testing-labs.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/thelamina/react-testing-labs/issues"
+	},
+	"homepage": "https://github.com/thelamina/react-testing-labs#readme",
+	"dependencies": {
+		"core-js": "^3.27.2",
+		"cors": "^2.8.5",
+		"express": "^4.18.2"
+	},
+	"devDependencies": {
+		"jest": "^29.3.1",
+		"supertest": "^6.3.3"
+	}
+}
